@@ -1,3 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work local?
-This is 1st question of reflection3 which is still to be answered.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+We may not want to make each commit public as it might still be in a developmental stage.
+
+
 
