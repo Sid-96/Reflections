@@ -8,6 +8,8 @@ What is the benefit of having a copy of the last known state of the remote store
 It can be used to merge a commit made on github directly.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 More storage efficient, but more complicated. But I would definitely use Git VCS.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we want to make a pull request. We make a seperate branch, make our changes, make them online and then make the pull request . Which can be merged to master branch later.
 
 
 
